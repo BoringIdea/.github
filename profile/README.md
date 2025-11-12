@@ -15,7 +15,7 @@ We are a team of engineers with over **5 years of experience** in blockchain dev
   An open-source public goods funding platform, addressing the challenge of sustainable funding for open-source projects. Built on SVM.  
   *Supporting the builders of tomorrow’s digital commons.* 💡
 
-- **MoveAS (Move Attestation Service)**   [X](https://x.com/moveas_xyz) | [Website](https://www.moveas.xyz)
+- **MoveAS**   [X](https://x.com/moveas_xyz) | [Website](https://www.moveas.xyz)
 
   An open-source public good built on Move, providing attestation services for the Move ecosystem.  
   *Enhancing trust and transparency in Move-based applications.* 🔒
