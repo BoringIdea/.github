@@ -19,3 +19,8 @@ We are a team of engineers with over **5 years of experience** in blockchain dev
 
   An open-source public good built on Move, providing attestation services for the Move ecosystem.  
   *Enhancing trust and transparency in Move-based applications.* 🔒
+
+- **Roma-01** [Website](https://roma-01.vercel.app/)
+
+  *Multi‑agent AI‑powered crypto futures quant trading platform.* 🤖
+
