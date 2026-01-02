@@ -5,22 +5,22 @@ We are a team of engineers with over **5 years of experience** in blockchain dev
 
 ## 🚀 Our Ongoing Projects
 
-- **ArtFlip**  [X](https://x.com/flip_io) | [Website](https://www.flipnft.xyz/)
+- **Fluxus**     [X](https://x.com/fluxus_trade) | [Website](https://fluxus-trade.vercel.app)
 
   An all-in-one NFT liquidity solution and platform for NFT issuance and trading, running on the EVM.  
   *Empowering creators and collectors with seamless NFT experiences.* 🎨
 
-- **Gitrant**  [X](https://x.com/gitrant_fund) | [Website](https://www.gitrant.xyz)
-
-  An open-source public goods funding platform, addressing the challenge of sustainable funding for open-source projects. Built on SVM.  
-  *Supporting the builders of tomorrow’s digital commons.* 💡
-
-- **MoveAS**   [X](https://x.com/moveas_xyz) | [Website](https://www.moveas.xyz)
+- **Movera**     [X](https://x.com/movera_protocol) | [Website](https://moverapp.vercel.app)
 
   An open-source public good built on Move, providing attestation services for the Move ecosystem.  
   *Enhancing trust and transparency in Move-based applications.* 🔒
 
-- **Roma-01** [Website](https://roma-01.vercel.app/)
+- **Cathedral**  [X](https://x.com/catheral_dev) | [Website](https://cathedral-app.vercel.app)
+
+  An open-source public goods funding platform, addressing the challenge of sustainable funding for open-source projects. Built on SVM.  
+  *Supporting the builders of tomorrow’s digital commons.* 💡
+
+- **Roma-01**    [X](https://x.com/romaai_io) | [Website](https://roma-01.vercel.app/) 
 
   *Multi‑agent AI‑powered crypto futures quant trading platform.* 🤖
 
