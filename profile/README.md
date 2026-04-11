@@ -20,7 +20,7 @@ We are a team of engineers with over **5 years of experience** in blockchain dev
   An open-source public goods funding platform, addressing the challenge of sustainable funding for open-source projects. Built on SVM.  
   *Supporting the builders of tomorrow’s digital commons.* 💡
 
-- **Roma-01**   [Website](https://roma-01.vercel.app/) 
+- **Roma-01**
 
   *Multi‑agent AI‑powered crypto futures quant trading platform.* 🤖
 
